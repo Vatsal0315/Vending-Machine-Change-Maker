@@ -1,2 +1,2 @@
 # Vending-Machine-Change-Maker
-vending machine
+The program allows users to enter prices for items they wish to purchase and deposit payment in the form of nickels, dimes, quarters, one-dollar bills, and five-dollar bills. The vending machine calculates the amount owed and prompts users to deposit the appropriate coins/bills until the full payment is collected or the transaction is canceled. Upon completion of the transaction, the program dispenses change in the form of coins and updates the stock of available coins and dollars accordingly.
